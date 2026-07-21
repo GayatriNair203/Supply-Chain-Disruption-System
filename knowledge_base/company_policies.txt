@@ -1,0 +1,47 @@
+POLICY 1: HIGH PRIORITY SHIPMENT ESCALATION
+If a shipment is marked High priority and has a Medium or High risk level, it must be reviewed before normal execution continues.
+High priority shipments may affect customer commitments, production schedules, or service-level agreements.
+Recommended actions include closer monitoring, customer communication, and escalation to logistics leadership.
+
+POLICY 2: DELAYED SHIPMENT RESPONSE
+If a shipment is already delayed, the logistics team must review the cause of delay and determine whether the shipment should continue, be rerouted, or be held.
+Delayed shipments with additional route, weather, or news disruption risk require active monitoring.
+If the risk level is High, the shipment should not be automatically approved without review.
+
+POLICY 3: TEMPERATURE-SENSITIVE OR SENSITIVE CARGO HANDLING
+Shipments involving pharmaceuticals, perishable food, medical supplies, or other sensitive cargo require additional handling control.
+If weather conditions include extreme heat, freezing temperatures, storms, or route delays, the shipment should receive elevated risk attention.
+Sensitive cargo may require alternate routing, temperature monitoring, or carrier confirmation before release.
+
+POLICY 4: WEATHER DISRUPTION RESPONSE
+If severe weather is detected at the origin, destination, or along the route, shipment execution should be reviewed.
+Severe weather includes heavy rain, snow, hurricanes, flooding, tornado warnings, or extreme heat.
+Recommended actions include checking carrier availability, route conditions, and estimated delivery impact.
+
+POLICY 5: ROUTE RISK AND TRAFFIC DELAY RESPONSE
+If route analysis shows Medium risk, the shipment may continue with monitoring.
+If route analysis shows High risk or traffic delay is significant, the logistics team should consider rerouting, delaying dispatch, or confirming the route with the carrier.
+Long-distance shipments should receive additional review when combined with weather or external disruption risk.
+
+POLICY 6: EXTERNAL NEWS DISRUPTION RESPONSE
+If external news intelligence identifies logistics disruption, road closure, strike, congestion, wildfire, port delay, or supply chain disruption near the shipment route, the shipment should be reviewed.
+A single weak article should not automatically block shipment execution.
+Multiple relevant disruption signals should increase the risk level and may require rerouting or delay.
+
+POLICY 7: AUTO-APPROVAL RULE
+Low risk shipments may be automatically approved.
+Medium risk shipments may be automatically approved only if there is no active delay, no severe weather, and no high route risk.
+High risk shipments require human review before final approval.
+
+POLICY 8: REROUTING GUIDELINE
+Rerouting should be considered when route risk is High, traffic delay is significant, severe weather affects the route, or external disruption signals suggest transportation instability.
+Rerouting is preferred over delaying when the shipment is high priority or time-sensitive and an alternate route is practical.
+
+POLICY 9: DELAY RECOMMENDATION GUIDELINE
+Delay is recommended when conditions make shipment continuation unreliable or unsafe.
+Delay may be appropriate when severe weather, route closure, or active disruption is likely to cause failed delivery.
+Delay should be considered for sensitive cargo if temperature or handling conditions cannot be confirmed.
+
+POLICY 10: SHIP RECOMMENDATION GUIDELINE
+Ship is recommended when risk is Low or controlled Medium, route conditions are stable, weather is acceptable, and no major disruption intelligence is detected.
+Medium risk shipments may still ship if the risk is explainable and manageable through monitoring.
